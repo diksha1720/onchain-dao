@@ -1,0 +1,6 @@
+{
+  "BoxContractAddress": "0x43Bf92b9631663dCBe0E4B110D17047B0894b3Ce",
+  "GovernorContractAddress": "0xbD9f3507E6f350CCda7B6b325589352c2c64c64b",
+  "TimeLockContractAddress": "0x38131122Bf7Bd34Df9994DbAd7a3081De1c0aF49",
+  "GovernanceTokenAddress": "0xC9B0623ab69d2648044861fa8714CEa06563a881"
+}
